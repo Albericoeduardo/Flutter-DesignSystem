@@ -3,17 +3,17 @@ import 'package:flutter/material.dart';
 //Light
 
 //Brand colors
-const Color lightPrimaryBrandColorLight = Color(0xffFAE187);
-const Color normalPrimaryBrandColorLight = Color(0xffF8D247);
-const Color darkPrimaryBrandColorLight = Color(0xffE0B827);
+const Color lightPrimaryBrandColor = Color(0xffFAE187);
+const Color normalPrimaryBrandColor = Color(0xffF8D247);
+const Color darkPrimaryBrandColor = Color(0xffE0B827);
 
-const Color lightSecondaryBrandColorLight = Color(0xff6482FF);
-const Color normalSecondaryBrandColorLight = Color(0xff274FF5);
-const Color darkSecondaryBrandColorLight= Color(0xff1A38B2);
+const Color lightSecondaryBrandColor = Color(0xff6482FF);
+const Color normalSecondaryBrandColor = Color(0xff274FF5);
+const Color darkSecondaryBrandColor = Color(0xff1A38B2);
 
-const Color lightTertiaryBrandColorLight = Color(0xffFF9D7E);
-const Color normalTertiaryBrandColorLight = Color(0xffF87147);
-const Color darkTertiaryBrandColorLight = Color(0xffE75527);
+const Color lightTertiaryBrandColor = Color(0xffFF9D7E);
+const Color normalTertiaryBrandColor = Color(0xffF87147);
+const Color darkTertiaryBrandColor = Color(0xffE75527);
 
 //Base colors
 const Color lightPrimaryBaseColorLight = Color(0xff555555);
@@ -29,13 +29,13 @@ const Color normalTertiaryBaseColorLight= Color(0xffEDEEF1);
 const Color darkTertiaryBaseColorLight = Color(0xffDDDDDD);
 
 //System colors
-const Color lightSuccessSystemColorLight = Color(0xff24DD7D);
-const Color normalSuccessSystemColorLight = Color(0xff00AF54);
-const Color darkSuccessSystemColorLight = Color(0xff0F8849);
+const Color lightSuccessSystemColor = Color(0xff24DD7D);
+const Color normalSuccessSystemColor = Color(0xff00AF54);
+const Color darkSuccessSystemColor = Color(0xff0F8849);
 
-const Color lightErrorSystemColorLight = Color(0xffFD5839);
-const Color normalErrorSystemColorLight = Color(0xffE03616);
-const Color darkErrorSystemColorLight = Color(0xffBB2D13);
+const Color lightErrorSystemColor = Color(0xffFD5839);
+const Color normalErrorSystemColor = Color(0xffE03616);
+const Color darkErrorSystemColor = Color(0xffBB2D13);
 
 //Material colors
 const Color thickMaterialColorLight = Color.fromARGB(232, 250, 250, 250);
